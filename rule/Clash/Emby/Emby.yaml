@@ -47,3 +47,14 @@ payload:
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
   - PROCESS-NAME,com.mb.android
+  - DOMAIN-SUFFIX,789.123456.al
+  - DOMAIN-SUFFIX,imetyou.top
+  - DOMAIN-SUFFIX,xmsl.org
+  - DOMAIN-SUFFIX,1.4545.cf
+  - DOMAIN-SUFFIX,emby.bangumi.ca
+  - DOMAIN-SUFFIX,emby.txrui.top
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,term.wtf
+  - DOMAIN-SUFFIX,nanflix.net
+  - DOMAIN-SUFFIX,tanhuatv.site
+  - DOMAIN-SUFFIX,mius.uk
